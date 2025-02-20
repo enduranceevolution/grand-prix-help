@@ -28,7 +28,10 @@ twitter_username:
 github_username:  joelgaff
 
 # Build settings
-theme: minima
+# Themes
+# theme: minima
+theme: just-the-docs
+
 plugins:
   - jekyll-feed
 
