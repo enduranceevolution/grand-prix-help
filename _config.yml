@@ -30,7 +30,9 @@ github_username:  joelgaff
 # Build settings
 # Themes
 # theme: minima
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
 
 plugins:
   - jekyll-feed
