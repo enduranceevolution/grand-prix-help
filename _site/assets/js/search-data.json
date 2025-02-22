@@ -1,9 +1,79 @@
 {"0": {
-    "doc": "About",
-    "title": "About",
-    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
-    "url": "/about/",
+    "doc": "Account Registration",
+    "title": "Creating Your Account",
+    "content": "Follow these steps to create your Grand Prix account. | Visit grand-prix.eetiming.net | Click “Register” in the top navigation | Fill out the required information | Verify your email address | . Note: . | An email address is required, however if you would like to use the same email address as another user, you can create a sub-account. | . ",
+    "url": "/docs/getting-started/account-registration.html#creating-your-account",
     
-    "relUrl": "/about/"
+    "relUrl": "/docs/getting-started/account-registration.html#creating-your-account"
+  },"1": {
+    "doc": "Account Registration",
+    "title": "Account Registration",
+    "content": " ",
+    "url": "/docs/getting-started/account-registration.html",
+    
+    "relUrl": "/docs/getting-started/account-registration.html"
+  },"2": {
+    "doc": "Add Results",
+    "title": "Adding Results",
+    "content": "Follow these steps to add results to your Grand Prix account. | Login to your account | Click Add Results | Select the race for which you want to add results | Select the point value you want to add | Click Submit | . ",
+    "url": "/docs/getting-started/add-results.html#adding-results",
+    
+    "relUrl": "/docs/getting-started/add-results.html#adding-results"
+  },"3": {
+    "doc": "Add Results",
+    "title": "Add Results",
+    "content": " ",
+    "url": "/docs/getting-started/add-results.html",
+    
+    "relUrl": "/docs/getting-started/add-results.html"
+  },"4": {
+    "doc": "Delete Results",
+    "title": "Deleting Results",
+    "content": "Follow these steps to delete results from your Grand Prix account. | Login to your account | Click My Results | Click the Edit button next to the result you want to edit | Click Delete This Result | . Note: . | After deleting a results for a particular race, you can add a new result again for the same race if needed. | . ",
+    "url": "/docs/getting-started/delete-results.html#deleting-results",
+    
+    "relUrl": "/docs/getting-started/delete-results.html#deleting-results"
+  },"5": {
+    "doc": "Delete Results",
+    "title": "Delete Results",
+    "content": " ",
+    "url": "/docs/getting-started/delete-results.html",
+    
+    "relUrl": "/docs/getting-started/delete-results.html"
+  },"6": {
+    "doc": "Edit Results",
+    "title": "Editing Results",
+    "content": "Follow these steps to edit results in your Grand Prix account. | Login to your account | Click My Results | Click the Edit button next to the result you want to edit | Select a new point value | Click Update | . ",
+    "url": "/docs/getting-started/edit-results.html#editing-results",
+    
+    "relUrl": "/docs/getting-started/edit-results.html#editing-results"
+  },"7": {
+    "doc": "Edit Results",
+    "title": "Edit Results",
+    "content": " ",
+    "url": "/docs/getting-started/edit-results.html",
+    
+    "relUrl": "/docs/getting-started/edit-results.html"
+  },"8": {
+    "doc": "Getting Started",
+    "title": "Getting Started",
+    "content": "Learn the basics of using the Grand Prix Results Management System. ",
+    "url": "/docs/getting-started/",
+    
+    "relUrl": "/docs/getting-started/"
+  },"9": {
+    "doc": "Getting Started",
+    "title": "Overview",
+    "content": "The Grand Prix Racing Management System is designed to handle results entry and standings calculation, in real-time. This section will guide you through the essential steps to get started. ",
+    "url": "/docs/getting-started/#overview",
+    
+    "relUrl": "/docs/getting-started/#overview"
+  },"10": {
+    "doc": "Sub-Accounts",
+    "title": "Sub-Accounts",
+    "content": "A sub-account is a separate user account that is linked to your main account (the one you're currently logged in to). Once you create a sub-account, the user of that account can log in on its own and enter/edit results and profile information. After creating a sub-account, you will need to share the password with the sub-account user. The sub-account user can use that password to login and create a new one if desired. You, as the \"parent\" account, can see the results and profile information for all sub-accounts you create, and can create and edit results on their behalf. Sub-accounts, however, cannot see or access the parent account or other sub-accounts under the parent account. Sub-accounts can have the same email address as the parent account, or a unique one, but an email address is required. If a sub-account has the same email address as the parent account, both the parent and sub-account user will use that email address to log in, and will be presented with a menu to choose what account they want to log into. ",
+    "url": "/sub-accounts/",
+    
+    "relUrl": "/sub-accounts/"
   }
 }

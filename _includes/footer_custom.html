@@ -1,0 +1,21 @@
+<!-- Footer content
+appears at the bottom of every page's main content
+Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust
+markup / liquid-based content. -->
+<div class="footer-content" style="font-size: 12px; color: lightgray">
+  This page was last updated on: {% last_modified_at %m/%d/%Y%}
+</div>
+
+<!-- Footer last edited timestamp -->
+{% if page.last_modified_date %}
+  <div class="footer-timestamp">
+    <p>Last edited on {{ page.last_modified_date | date: "%b %e %Y at %I:%M %p" }}</p>
+  </div>
+{% endif %}
+
+<!-- Footer "Edit this page on GitHub" link -->
+{% if site.gh_edit_link %}
+  <div class="footer-edit-link">
+    <p><a href="{{ site.gh_edit_repository }}/edit/{{ site.gh_edit_branch }}/{{ page.path }}">{{ site.gh_edit_link_text }}</a></p>
+  </div>
+{% endif %}
