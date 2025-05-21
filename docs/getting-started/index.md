@@ -6,7 +6,7 @@ nav_order: 1
 
 # Getting Started
 
-Learn the basics of using the Grand Prix Results Management System.
+Learn the basics of using the Grand Prix Circuit Results Management System.
 
 ## Overview
 
